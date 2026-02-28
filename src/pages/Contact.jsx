@@ -89,7 +89,7 @@ const Contact = () => {
                                     </div>
                                     <div className="flex items-center">
                                         <Mail className="text-white/40 mr-4 flex-shrink-0" size={20} />
-                                        <p>hello@vivekphotography.com</p>
+                                        <p>hello@Sadhgunphotography.com</p>
                                     </div>
                                 </div>
                             </div>
@@ -97,7 +97,7 @@ const Contact = () => {
                             <div>
                                 <h4 className="font-serif text-2xl text-gold mb-6">Social</h4>
                                 <a href="#" className="inline-flex items-center tracking-widest uppercase text-sm font-sans text-white hover:text-gold transition-colors border border-white/10 px-6 py-3 rounded-full hover:border-gold">
-                                    <Instagram size={18} className="mr-3" /> @vivek.photography
+                                    <Instagram size={18} className="mr-3" /> @Sadhgun.photography
                                 </a>
                             </div>
 

@@ -57,14 +57,14 @@ const About = () => {
                     <div className="relative z-10 w-full max-w-2xl px-6 pointer-events-none mt-16">
                         <img
                             src="https://images.unsplash.com/photo-1605466436660-f46320579e0a?q=80&w=1200&auto=format&fit=crop"
-                            alt="Vivek Portrait"
+                            alt="Sadhgun Portrait"
                             className="w-full h-auto object-cover opacity-90 drop-shadow-2xl grayscale contrast-125"
                         />
                     </div>
 
                     {/* Layer 3: Overlay Text */}
                     <div className="absolute bottom-10 left-6 md:left-24 z-20">
-                        <h2 className="font-serif text-4xl md:text-6xl text-white mb-2">Vivek Sharma</h2>
+                        <h2 className="font-serif text-4xl md:text-6xl text-white mb-2">Sadhgun Sharma</h2>
                         <p className="font-sans text-sm tracking-widest text-gold uppercase">Lead Photographer & Director</p>
                     </div>
                 </section>

@@ -8,14 +8,14 @@ const testimonials = [
         name: "Eleanor & James",
         event: "Lake Como Wedding",
         rating: 5,
-        quote: "Vivek doesn't just take pictures; he captures the very essence of the moment. Looking at our album feels like reliving the magic all over again."
+        quote: "Sadhgun doesn't just take pictures; he captures the very essence of the moment. Looking at our album feels like reliving the magic all over again."
     },
     {
         id: 2,
         name: "Vogue India",
         event: "Editorial Spring '23",
         rating: 5,
-        quote: "An absolute master of light and shadow. The cinematic quality Vivek brings to fashion photography is unparalleled in the industry right now."
+        quote: "An absolute master of light and shadow. The cinematic quality Sadhgun brings to fashion photography is unparalleled in the industry right now."
     },
     {
         id: 3,
@@ -29,7 +29,7 @@ const testimonials = [
         name: "The Grand Hotel",
         event: "Commercial Campaign",
         rating: 5,
-        quote: "Professional, visionary, and exact. Vivek elevated our brand imagery to a global luxury standard."
+        quote: "Professional, visionary, and exact. Sadhgun elevated our brand imagery to a global luxury standard."
     }
 ];
 

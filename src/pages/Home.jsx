@@ -72,7 +72,7 @@ const Home = () => {
                             Capturing Moments. Creating Memories.
                         </p>
                         <h1 className="font-serif text-6xl md:text-8xl lg:text-9xl text-white tracking-widest mb-6 mix-blend-difference">
-                            VIVEK
+                            Sadhgun
                         </h1>
                         <p className="font-sans text-sm md:text-base text-offwhite/80 tracking-widest uppercase mb-12">
                             Wedding · Fashion · Editorial · Fine Art
@@ -296,7 +296,7 @@ const Home = () => {
                     <div className="text-center mb-12 flex flex-col items-center">
                         <Instagram className="text-gold mb-4" size={32} />
                         <h2 className="font-serif text-3xl text-white mb-2">Follow The Journey</h2>
-                        <a href="#" className="font-sans text-sm tracking-widest text-offwhite/50 hover:text-white uppercase transition-colors">@vivek.photography</a>
+                        <a href="#" className="font-sans text-sm tracking-widest text-offwhite/50 hover:text-white uppercase transition-colors">@Sadhgun.photography</a>
                     </div>
 
                     {/* Mock Instagram Grid */}

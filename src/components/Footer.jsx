@@ -74,7 +74,7 @@ const Footer = () => {
 
                 <div className="pt-8 border-t border-white/10 flex flex-col md:flex-row justify-between items-center">
                     <p className="text-offwhite/40 text-xs mb-4 md:mb-0">
-                        &copy; {new Date().getFullYear()} Vivek Photography. All Rights Reserved.
+                        &copy; {new Date().getFullYear()} Sadhgun Photography. All Rights Reserved.
                     </p>
                     <div className="flex space-x-6">
                         <Link to="/privacy" className="text-offwhite/40 hover:text-offwhite text-xs transition-colors">Privacy Policy</Link>
