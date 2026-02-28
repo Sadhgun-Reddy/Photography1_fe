@@ -35,7 +35,7 @@ const Navbar = () => {
         ${scrolled ? 'bg-obsidian/80 backdrop-blur-md border-b border-white/5 py-4' : 'bg-transparent'}`}
             >
                 <Link to="/" className="text-2xl font-serif text-white tracking-widest relative group">
-                    <span className="text-gold">V</span>IVEK
+                    <span className="text-gold">S</span>ADHGUN
                     <span className="absolute -bottom-1 left-0 w-0 h-[1px] bg-gold transition-all duration-300 group-hover:w-full"></span>
                 </Link>
 

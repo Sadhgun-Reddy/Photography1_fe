@@ -13,7 +13,7 @@ const Footer = () => {
 
                     <div className="col-span-1 lg:col-span-1">
                         <Link to="/" className="text-3xl font-serif text-white tracking-widest mb-6 block">
-                            <span className="text-gold">V</span>IVEK
+                            <span className="text-gold">S</span>ADHGUN
                         </Link>
                         <p className="text-offwhite/60 font-sans text-sm leading-relaxed mb-6">
                             Capturing life's most fleeting, beautiful moments with an editorial eye and timeless elegance.
